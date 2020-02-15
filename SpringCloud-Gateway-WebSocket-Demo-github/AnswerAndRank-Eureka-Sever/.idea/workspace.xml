@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de27c31a-b298-414d-9e3f-a4e683efbf6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/maven/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xmwr32mPMkg8fMLDEzucG4eDKw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EurekaseverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eurekasever" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.naah.eurekasever.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.naah.eurekasever.EurekaseverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaseverApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de27c31a-b298-414d-9e3f-a4e683efbf6d" name="Default Changelist" comment="" />
+      <created>1581664772426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581664772426</updated>
+      <workItem from="1581664774101" duration="1489000" />
+      <workItem from="1581666610112" duration="2811000" />
+      <workItem from="1581737584469" duration="167000" />
+      <workItem from="1581744441415" duration="1317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1581745871881">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581745871881" />
+    <state width="1238" height="204" key="GridCell.Tab.0.center" timestamp="1581745871832">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1581745871832" />
+    <state width="1238" height="204" key="GridCell.Tab.0.left" timestamp="1581745871827">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1581745871827" />
+    <state width="1238" height="204" key="GridCell.Tab.0.right" timestamp="1581745871863">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1581745871863" />
+    <state width="1238" height="204" key="GridCell.Tab.1.bottom" timestamp="1581745847851">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581745847851" />
+    <state width="1238" height="204" key="GridCell.Tab.1.center" timestamp="1581745847849">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1581745847849" />
+    <state width="1238" height="204" key="GridCell.Tab.1.left" timestamp="1581745847848">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1581745847848" />
+    <state width="1238" height="204" key="GridCell.Tab.1.right" timestamp="1581745847850">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1581745847850" />
+    <state x="296" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1581666612471">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="296" y="212" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1581666612471" />
+  </component>
+</project>

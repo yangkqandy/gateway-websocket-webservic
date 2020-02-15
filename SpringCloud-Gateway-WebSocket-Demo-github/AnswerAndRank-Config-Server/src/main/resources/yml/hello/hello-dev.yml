@@ -1,0 +1,21 @@
+#logging:
+#  level:
+#    ROOT: DEBUG
+server:
+  port: 5679
+#  port: ${random.int[11001,12000]}
+eureka:
+  client:
+     #下面两项没有代码提示
+     serviceUrl:
+      #服务治理地址
+      defaultZone: http://localhost:1025/eureka/
+#\  instance:
+#    instanceId: ${spring.application.name):${random.int}
+cxf:
+  path: /Service
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
