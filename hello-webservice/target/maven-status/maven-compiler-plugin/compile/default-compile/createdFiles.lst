@@ -1,0 +1,5 @@
+com/anchnet/hello/CxfConfig.class
+com/anchnet/hello/HelloApplication.class
+com/anchnet/hello/HelloServiceImpl.class
+com/anchnet/hello/HelloController.class
+com/anchnet/hello/HelloService.class
